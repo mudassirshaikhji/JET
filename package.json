@@ -1,0 +1,19 @@
+{
+  "name": "jet",
+  "version": "1.0.0",
+  "description": "JET Assignment",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run --spec 'cypress/e2e/test.cy.js'"
+  },
+  "author": "Mudassir Shaikhji",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.8",
+    "cypress-mochawesome-reporter": "^3.6.0",
+    "prettier": "3.0.3"
+  }
+}
