@@ -2,7 +2,7 @@ Clone the repository:
 
 git clone https://github.com/mudassirshaikhji/JET.git
 
-Install dependencies:
+Navigate to the downloaded directory and install dependencies:
 
 npm install
 
